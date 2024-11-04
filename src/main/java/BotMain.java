@@ -17,7 +17,7 @@ public class BotMain extends ListenerAdapter {
 
         try {
             // Initialize the bot with your token
-            String token = "MTMwMjczMjY3OTMwMDY0NDg4NQ.GfLk30.2MEFiO9S6lPwPbRCJJ0jn9Sc_p9JLOYUU32BIU"; // Replace with your bot's token
+            String token = ""; // Replace with your bot's token
             JDABuilder builder = JDABuilder.createDefault(token);
 
             // Register event listeners
